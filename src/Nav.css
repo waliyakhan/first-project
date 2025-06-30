@@ -34,12 +34,5 @@
 .nav-links a:hover {
   color: #d63384;
 }
-.bg{
-  display: flex;
-  height: 500px;
-  width: 100%;
-  margin-top: 1px;
-  opacity: 80%;
 
-}
 

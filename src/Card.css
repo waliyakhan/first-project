@@ -6,13 +6,21 @@
   flex-wrap: wrap;  
   text-align: center;
   align-items: center;
-  background-color: rgb(248, 214, 220);
+  background-color: rgb(232, 188, 196);
   margin-top: 50px;
+  margin-left:100px;
+
 }
 .div{
-  background:rgb(252, 222, 227);
-  font-weight: bold;
-  height: 40px;
-  width:150px;
+  background:rgb(215, 166, 174);
+  font-size: x-large;
+  font-weight: bolder;
+  height: 50px;
+
+  margin-top: 50px;
+padding: 10px;
+  text-align: center;
+  align-items: center;
+
 }
 

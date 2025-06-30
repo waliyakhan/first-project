@@ -2,18 +2,23 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Nav from './Nav.jsx';
 import BasicExample from './Card.jsx'
 import About from './About.jsx'
+import MyCarousel from './Carousel.jsx';
 
 function App() {
   return (
     <>
-    <div >
-   <Nav/>
-   <About/>
-    <BasicExample/>
+      <div >
+        <Nav />
+        <MyCarousel/>
 
-    </div>
- 
-      </>
+        <About />
+        <div className='row'>
+          <BasicExample />
+        </div>
+        
+      </div>
+
+    </>
   );
 }
 

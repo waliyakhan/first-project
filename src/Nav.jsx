@@ -16,10 +16,6 @@ function Nav() {
       </div>
      
     </div>
-     <div>
-        <img  className="bg" src="/img2.webp" alt="bg" />
-        
-      </div>
     </>
   )
 }
