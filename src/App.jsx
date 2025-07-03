@@ -3,7 +3,7 @@ import Nav from './Nav.jsx';
 import BasicExample from './Card.jsx'
 import About from './About.jsx'
 import MyCarousel from './Carousel.jsx';
-
+import Footer from './Footer.jsx'
 function App() {
   return (
     <>
@@ -15,7 +15,7 @@ function App() {
         <div className='row'>
           <BasicExample />
         </div>
-        
+         <Footer/>
       </div>
 
     </>

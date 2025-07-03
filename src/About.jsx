@@ -2,7 +2,6 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import './About.css';
 
-import React from 'react'
 
 function About() {
   return (

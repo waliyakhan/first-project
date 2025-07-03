@@ -8,7 +8,7 @@ function BasicExample() {
       <div className='div'>PRODUCTS</div>
 
       <Card className='main' style={{ width: '18rem' }}>
-        <Card.Img variant="top" src=" /img 1.avif" />
+        <Card.Img variant="top" src=" /img5.jpg" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
           <Card.Text>
@@ -48,7 +48,7 @@ function BasicExample() {
 
 
  <Card className='main' style={{ width: '18rem' }}>
-        <Card.Img variant="top" src=" /img 1.avif" />
+        <Card.Img variant="top" src=" /img7.webp" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
           <Card.Text>
@@ -59,7 +59,7 @@ function BasicExample() {
         </Card.Body>
       </Card>
        <Card className='main' style={{ width: '18rem' }}>
-        <Card.Img variant="top" src=" /img 1.avif" />
+        <Card.Img variant="top" src=" /img8.jpg" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
           <Card.Text>
@@ -70,7 +70,7 @@ function BasicExample() {
         </Card.Body>
       </Card>
        <Card className='main' style={{ width: '18rem' }}>
-        <Card.Img variant="top" src=" /img 1.avif" />
+        <Card.Img variant="top" src=" /img9.avif" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
           <Card.Text>
